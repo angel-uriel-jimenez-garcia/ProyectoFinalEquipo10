@@ -5,7 +5,7 @@ Integrantes:
 *.Jiménez García Angel Uriel
 *.López Sebastián Liliana Fernanda 
 *.Mier Fenoglio Sofía 
-*.Rojas Mora Valentina Regina 
+*.Rojas Mora Valentina Regina
 
 Instrucciones para el ejecutar el código:
 1. Asegurarse que el path definido en las funciones sea el mismo en el que está chromedriver en tu computadora
